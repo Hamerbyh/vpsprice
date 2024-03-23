@@ -6,7 +6,7 @@ export default defineUserConfig({
 
   lang: "en-US",
   title: "VPSPrice",
-  description: "A blog demo for vuepress-theme-hope",
+  description: "Recommend best and cheap VPS. Get high-performance VPS Hosting servers.",
 
   theme,
 

@@ -5,4 +5,4 @@ cover: /assets/images/cover3.jpg
 
 # Intro Page
 
-Place your introduction and profile here.
+VPSPrice will recommend best and cheap VPS. Get high-performance VPS Hosting servers.
