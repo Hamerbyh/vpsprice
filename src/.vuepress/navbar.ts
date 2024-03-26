@@ -3,17 +3,16 @@ import { navbar } from "vuepress-theme-hope";
 export default navbar([
   "/",
   {
-    text: "Posts",
+    text: "Blog",
     icon: "pen-to-square",
     prefix: "/posts/",
     children: [
       {
-        text: "Apple",
+        text: "KVM VPS",
         icon: "pen-to-square",
-        prefix: "apple/",
+        // prefix: "apple/",
         children: [
-          { text: "Apple1", icon: "pen-to-square", link: "1" },
-          { text: "Apple2", icon: "pen-to-square", link: "2" },
+          { text: "KVM VPS", icon: "pen-to-square", link: "kvm-vps" },
         ],
       },
     ],
