@@ -6,7 +6,7 @@ title: Blog Home
 heroImage: https://theme-hope-assets.vuejs.press/logo.svg
 heroText: VPSPrice
 tagline: Best And Cheap VPS
-heroFullScreen: true
+heroFullScreen: false
 projects:
   - icon: project
     name: VPS Providers
