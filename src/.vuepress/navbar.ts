@@ -17,4 +17,19 @@ export default navbar([
       },
     ],
   },
+  {
+    text: "VPS Providers",
+    icon: "pen-to-square",
+    prefix: "/providers/",
+    children: [
+      {
+        text: "Digital Ocean",
+        icon: "pen-to-square",
+        prefix: "digitalocean/",
+        children: [
+          { text: "Digital Ocean Price", icon: "pen-to-square", link: "droplet-price" },
+        ],
+      },
+    ],
+  },
 ]);

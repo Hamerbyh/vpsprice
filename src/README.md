@@ -3,7 +3,6 @@ home: true
 layout: BlogHome
 icon: home
 title: Blog Home
-heroImage: https://theme-hope-assets.vuejs.press/logo.svg
 heroText: VPSPrice
 tagline: Best And Cheap VPS
 heroFullScreen: false
