@@ -36,7 +36,7 @@ export default hopeTheme({
   },
 
   blog: {
-    description: "A FrontEnd programmer",
+    description: "A VPS Suggester",
     intro: "/intro.html",
     medias: {
       // Baidu: "https://example.com",

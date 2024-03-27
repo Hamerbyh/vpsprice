@@ -2,7 +2,7 @@
 home: true
 layout: BlogHome
 icon: home
-title: Blog Home
+title: VPSPrice
 heroText: VPSPrice
 tagline: Best And Cheap VPS
 heroFullScreen: false
