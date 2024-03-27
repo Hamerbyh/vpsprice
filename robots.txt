@@ -1,0 +1,7 @@
+User-agent: *
+
+Allow: /
+User-agent:*
+Disallow:
+
+Sitemap: https://vpsprice.net/sitemap.xml
