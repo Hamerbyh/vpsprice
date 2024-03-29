@@ -13,6 +13,8 @@ tag:
 
 At Digital Ocean, VPS servers are called Droplets and they offer VPS hosting with different specification configurations which is biilled monthly, the following are the price of different configurations.
 
+Go to Digital Ocean: https://www.digitalocean.com/
+
 ## Price of Droplets
 
 ### Regular Droplets with SSD storage
