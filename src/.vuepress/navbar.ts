@@ -30,6 +30,14 @@ export default navbar([
           { text: "Digital Ocean Price", icon: "pen-to-square", link: "droplet-price" },
         ],
       },
+      {
+        text: "LightNode",
+        icon: "pen-to-square",
+        prefix: "lightnode/",
+        children: [
+          { text: "LightNode Price", icon: "pen-to-square", link: "lightnode-price" },
+        ],
+      },
     ],
   },
 ]);

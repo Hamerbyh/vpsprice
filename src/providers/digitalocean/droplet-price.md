@@ -11,7 +11,7 @@ tag:
   - NVMe SSD storage
 ---
 
-At Digital Ocean, VPS servers are called Droplets and they offer VPS hosting with different specification configurations which is biilled monthly, the following are the price of different configurations:
+At Digital Ocean, VPS servers are called Droplets and they offer VPS hosting with different specification configurations which is biilled monthly, the following are the price of different configurations.
 
 ## Price of Droplets
 
