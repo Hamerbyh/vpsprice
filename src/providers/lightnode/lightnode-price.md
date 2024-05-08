@@ -13,7 +13,7 @@ tag:
 
 At LightNode, VPS hosting is billed hourly. The following are the price of different configurations.
 
-Go to LightNode: https://www.lightnode.com
+[Go to LightNode](https://www.lightnode.com)
 
 ## Price of LightNode
 
